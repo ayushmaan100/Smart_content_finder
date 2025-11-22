@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+PyPDF2
+python-multipart
+requests
+openai
+youtube-transcript-api
+langchain
+psycopg2
+sqlalchemy
